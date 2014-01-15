@@ -1,8 +1,11 @@
 Updated for EU4 v1.4.0.0
 
+Repository https://github.com/klink-mit-panzerslip/eu4-francois_was_not_cosmopolitaine
+Forum http://forum.paradoxplaza.com/forum/showthread.php?716145-MOD-Fran%E7ois-was-not-so-Cosmopolitaine-after-all
+
 
 PURPOSE:
------------
+--------
 
 Would you be puzzled if, visiting France, you'd be meeting people that never ever heard about this Cosmopolitaine culture you nonetheless spread in the name of France, while playing Europa Universalis?
 
@@ -22,10 +25,3 @@ TECHNICAL:
 
 - This mod does not change in any way of the game works and, thus, is compatible with Ironman mode
 - I was not able to simply add the translation in new separate specific files, it seems that Paradox's Clausewitz engine ignore them if the string to be translated 
-
-
-FORUM THREAD:
--------------
-
-The forum at Paradoxplaza is the preferred way to discuss this whole thing:
-http://forum.paradoxplaza.com/forum/showthread.php?716145-MOD-Fran%E7ois-was-not-so-Cosmopolitaine-after-all
