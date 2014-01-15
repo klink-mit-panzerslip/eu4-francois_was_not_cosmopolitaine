@@ -1,0 +1,5 @@
+﻿l_english:
+# (requires a text_l_xxx.yml without this string)
+# french i18n take the feminine form and lower caps, so here we go
+ cosmopolitan_french: "françoise"
+ 

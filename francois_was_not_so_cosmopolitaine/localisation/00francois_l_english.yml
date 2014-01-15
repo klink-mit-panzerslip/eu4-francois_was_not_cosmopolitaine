@@ -1,0 +1,5 @@
+﻿l_english:
+# (requires a text_l_xxx.yml without this string)
+# english i18n keep things to masculine (like Breton)
+ cosmopolitan_french: "François"
+ 
