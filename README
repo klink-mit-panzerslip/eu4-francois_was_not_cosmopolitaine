@@ -24,7 +24,7 @@ UPDATE:
 
 Turns out Paradox decided to rename Cosmopolitaine in some languages to Francien. Not in every languages (?!).
 
-Good that they ackowledge the issue. But it's no secret that Francien was invented in XIX century, cf. https://fr.wikipedia.org/wiki/Francien
+Good that they ackowledge the issue. But it's no secret that Francien was invented in XIX century, actually a new name for François according to https://fr.wikipedia.org/wiki/Francien 
 
 So I stick with my initial choice, the word actually used by Kings or even French revolutionaries to describe their people, the one you can easily find in historic documents for the given era.
 
