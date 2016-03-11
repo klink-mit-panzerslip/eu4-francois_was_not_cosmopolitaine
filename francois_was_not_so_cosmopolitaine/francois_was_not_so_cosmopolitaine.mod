@@ -1,6 +1,6 @@
-name="François was not so Cosmopolitaine after all"
+name="FranÃ§ois was not so Cosmopolitaine after all"
 path="mod/francois_was_not_so_cosmopolitaine"
-supported_version = "1.13"
+supported_version = "1.15"
 tags=
 {
 "Fixes"
