@@ -1,11 +1,12 @@
-Updated for EU4 v1.15
+Updated for EU4 v1.16
 
 Repository https://github.com/klink-mit-panzerslip/eu4-francois_was_not_cosmopolitaine
 Forum http://forum.paradoxplaza.com/forum/showthread.php?716145-MOD-Fran%E7ois-was-not-so-Cosmopolitaine-after-all
 Blog https://crusaderping.wordpress.com/
 
-PURPOSE:
---------
+
+THE CASE ABOUT FRANCE CULTURE SET TO COSMOPOLITAINE:
+----------------------------------------------------
 
 Would you be puzzled if, visiting France, you'd be meeting people that never ever heard about this Cosmopolitaine culture you nonetheless spread in the name of France, while playing Europa Universalis?
 
@@ -19,18 +20,46 @@ So this mini-mod remove this unfortunate choice of word and replace it with Fran
 
 I made this mod to get rid of this inconsistency. This is a band-aid though, I don't think bugfixes should be mods, I think and hope people at Paradox will made the appropriate change.
 
-UPDATE:
--------
+
+UPDATE, THE CASE ABOUT FRANCE CULTURE SET TO FRANCIEN:
+------------------------------------------------------
 
 Turns out Paradox decided to rename Cosmopolitaine in some languages to Francien. Not in every languages (?!).
 
 Good that they ackowledge the issue. But it's no secret that Francien was invented in XIX century, actually a new name for François according to https://fr.wikipedia.org/wiki/Francien 
 
-So I stick with my initial choice, the word actually used by Kings or even French revolutionaries to describe their people, the one you can easily find in historic documents for the given era.
+So I stick with my initial choice, the word actually used by Kings or even French revolutionaries to describe their language and people, the one you can easily find in historic documents for the given era.
+
+
+LINK:
+-----
+
+I could give numerous pointers to historical documents from EU4 timeframe showing usage of François (however written, like Francoys for instance).
+I'll give only one: the current legal transcription of l'Ordonnance du 25 août 1539 sur le fait de la justice (dite ordonnance de Villers-Cotteret), the one dedicated to spread François language over the kingdom of France.
+
+
+		Ordonnance du 25 août 1539 sur le fait de la justice (dite ordonnance de Villers-Cotteret).
+		Version consolidée au 10 avril 2016
+
+		François, par la grâce de Dieu, roy de France, sçavoir,faisons, à tous présens et advenir, que pour aucunement pourvoir au bien de notre justice, abréviation des proçès, et soulagement de nos sujets avons, par édit perpétuel et irrévocable, statué et ordonné, statuons et ordonnons les choses qui s'ensuivent.
+
+		Article 110 
+
+		Et afin qu'il n'y ait cause de douter sur l'intelligence desdits arrêts, nous voulons et ordonnons qu'ils soient faits et écrits si clairement, qu'il n'y ait ni puisse avoir aucune ambiguïté ou incertitude ne lieu à demander interprétation.
+
+		Article 111 
+
+		Et pour ce que telles choses sont souvent advenues sur l'intelligence des mots latins contenus esdits arrests, nous voulons d'oresnavant que tous, arrests, ensemble toutes autres procédures, soient de nos cours souveraines et autres subalternes et inférieures, soient de registres, enquestes, contrats, commissions, sentences testaments, et autres quelconques, actes et exploicts de justice, ou qui en dépendent, soient prononcés, enregistrés et délivrés aux parties en langage maternel françois et non autrement.
+
+		NOTA : (1) La Cour de cassation applique toujours la présente ordonnance.
+
+		Donné à Villers-Coteret au moys d'aoust, l'an de grace mil cinq cens trente neuf, et de notre règne le vingt cinquiesme. FRANCOYS.
+
+	https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006070939
 
 
 TECHNICAL:
 ----------
 
 - This mod does not change in any way of the game works and, thus, is compatible with Ironman mode
-- I was not able to simply add the translation in new separate specific files, it seems that Paradox's Clausewitz engine ignore them if the string to be translated 
+- I was not able to simply add the translation in new separate specific files, it seems that Paradox's Clausewitz engine ignore them. 
