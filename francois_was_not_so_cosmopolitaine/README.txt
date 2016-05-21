@@ -1,4 +1,4 @@
-Updated for EU4 v1.16
+Updated for EU4 v1.17
 
 Repository https://github.com/klink-mit-panzerslip/eu4-francois_was_not_cosmopolitaine
 Forum http://forum.paradoxplaza.com/forum/showthread.php?716145-MOD-Fran%E7ois-was-not-so-Cosmopolitaine-after-all
