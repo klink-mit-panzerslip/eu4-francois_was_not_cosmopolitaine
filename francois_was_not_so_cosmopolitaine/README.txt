@@ -1,3 +1,7 @@
+#
+# THIS FILE IS HISTORY. UP TO DATE TO  BE FOUND AT
+#         https://gitlab.com/klink-mit-panzerslip/eu4-francois_was_not_cosmopolitaine/raw/master/francois_was_not_so_cosmopolitaine/README.txt
+#
 Updated for EU4 v1.17
 
 Repository https://github.com/klink-mit-panzerslip/eu4-francois_was_not_cosmopolitaine
